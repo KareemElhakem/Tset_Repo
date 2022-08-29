@@ -1,4 +1,4 @@
-void Sum(int x , int y)
+void sum(int x , int z)
 {
-	return x + y;
+	return x + z;
 }
